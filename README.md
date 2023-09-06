@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software developer using with React/Typescript and Golang.
+I'm a Software developer using React/Typescript and Golang.
 
 <!--
 **giardb/giardb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
