@@ -2,6 +2,8 @@
 
 I'm a Software developer using React/Typescript and Golang.
 
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+
 <!--
 **giardb/giardb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
